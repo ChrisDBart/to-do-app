@@ -33,7 +33,7 @@ h2 {
     width: 50%;
     text-align: center;
     padding-right: 40px;
-    color: white;
+    color: 000000;
     font-size: 150%;
     text-decoration: underline;
 }
@@ -46,7 +46,7 @@ li {
 ul {
     list-style: none;
     text-align: center;
-    color: white;
+    color: 000000;
 }
 button:hover {
     background: rgb(145, 228, 1);

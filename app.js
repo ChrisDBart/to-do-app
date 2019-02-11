@@ -21,7 +21,7 @@ function onReady() {
     checkbox.type = "checkbox";
 
     // set the title
-    newLi.textContent = "title";
+    newLi.innerHTML = title;
 
    // attach the checkbox to the li
     newLi.appendChild(checkbox);
